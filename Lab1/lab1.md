@@ -11,3 +11,14 @@ that there is a solution, and all we have to do is find it. The second thing tha
 directly telling them the answer but setting them off in the right direction to find the answer themselves. I think that if you just give 
 someone the solution, they won't be able to solve a similar problem in the future but if you point them in the right direction it allows 
 them to learn. 
+
+Free Culture chapter 3: I thought this story is very interesting. He seemed just like any other student at rpi who finds a problem and is 
+interested in finding a solution using what they learned in classes. It is very exciting to use information learned and apply it to a 
+problem, and then see the solution help out others. I think that the reasons that the people who were accusing him were invalid and should
+not have been brought up. This makes me wonder what kinds of code or changes rpi students are restricted to writing, and if this is fair at 
+all. We come to a place where we learn to help others and make life simpler/better using science. What the student in the article did was
+exactly that, and I am curious to see if that type of development is still not allowed now. I think that it should be allowed because 
+it is fun and exciting to make new software that has good intentions and helps other students. 
+
+Beautiful Code: I think that this reading is very interesting because I remember learning about regular expressions in some classes at
+rpi, and reviewing it before interviews and math exams. The C code was also pretty interesting to look at and learn about.

@@ -25,4 +25,4 @@ rpi, and reviewing it before interviews and math exams. The C code was also pret
 
 #### Part 15
 
-
+![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(49).png)

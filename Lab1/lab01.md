@@ -32,3 +32,11 @@ rpi, and reviewing it before interviews and math exams. The C code was also pret
 ![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(53).png)
 ![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(54).png)
 ![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(55).png)
+
+
+#### Part 16
+
+![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(56).png)
+![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(57).png)
+![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(58).png)
+![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(59).png)

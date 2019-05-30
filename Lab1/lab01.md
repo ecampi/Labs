@@ -23,6 +23,9 @@ it is fun and exciting to make new software that has good intentions and helps o
 Beautiful Code: I think that this reading is very interesting because I remember learning about regular expressions in some classes at
 rpi, and reviewing it before interviews and math exams. The C code was also pretty interesting to look at and learn about.
 
+### Part 13
+![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(63).png)
+
 #### Part 15
 
 ![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(49).png)

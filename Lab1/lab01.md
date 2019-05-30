@@ -44,7 +44,11 @@ rpi, and reviewing it before interviews and math exams. The C code was also pret
 ![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(58).png)
 ![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(59).png)
 
-#### Part 19
+#### Part 18
 
 ![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(60).png)
 ![](https://github.com/ecampi/Labs/blob/master/Lab1/Screenshot%20(61).png)
+
+### Part 19: Reflection
+
+I don't have any original ideas for open source projects that I would start myself right now. The only thoughts that I have for some kind of open source project are either a solver for a puzzle or game, which can interest me depending on the type of puzzle, or a database containing information in a way that is easily accessable to the people who need it. I do not have any ideas on what kind of information it would hold, which would effect the project. A project like this would be mostly setting up the database, and then writing out SQL commands that help analyze the contents and relate it to other qualities. I was pretty interested in the blocky activity and solving that puzzle. I think that a solver for that application is an interesting idea, but might be very difficult to implement. I also looked at some open source projects that Google has on their website. The projects that I found interesting were ones that included machine learning, APIs, learning algorithms, and operating systems that work with many devices. 

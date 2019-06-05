@@ -16,3 +16,6 @@ Learn git branching screenshots:
 
 git diff:
 ![](https://github.com/ecampi/Labs/blob/master/Lab2/gitdiff.PNG)
+
+git tag:
+![](https://github.com/ecampi/Labs/blob/master/Lab2/gittag.PNG)

@@ -12,3 +12,7 @@ Learn git branching screenshots:
 ![](https://github.com/ecampi/Labs/blob/master/Lab2/Screenshot%20(67).png)
 ![](https://github.com/ecampi/Labs/blob/master/Lab2/Screenshot%20(68).png)
 ![](https://github.com/ecampi/Labs/blob/master/Lab2/Screenshot%20(69).png)
+
+
+git diff:
+![](https://github.com/ecampi/Labs/blob/master/Lab2/gitdiff.PNG)

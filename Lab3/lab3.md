@@ -36,9 +36,24 @@ Screenshots of gitstats:
 
 
 
-Impac
 
-HowAreYou
+Name: HowAreYou
+
+Number of contributers: 2
+Lines of Code: 31303
+First commit: 
+    Date: Jan 15, 2019
+    Msg: Initial Commit:
+    Author: nicklczk
+Latest commit: 
+    Date: Apr 22, 2019
+    Msg: The more resources page now works as it should.
+    Author: macosten 
+Current branches: master, moreResources
+
+Findings when comparing Gitstat with #1:
+    Got the number of lines wrong: 31346 vs 31303
+    
 
 Hedgehogs
 

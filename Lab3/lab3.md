@@ -1,5 +1,7 @@
 ### Part 1
+![](https://github.com/ecampi/Labs/blob/master/Lab3/sqrt.PNG)
 
+![]()
 
 
 

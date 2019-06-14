@@ -1,3 +1,9 @@
+### Part 1
+
+
+
+
+
 ### Part 2 
 
 #### Analysis of my open source project:

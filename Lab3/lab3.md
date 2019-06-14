@@ -61,6 +61,8 @@ Screenshots:
 ![](https://github.com/ecampi/Labs/blob/master/Lab3/commits_by_year_month.png)
 ![](https://github.com/ecampi/Labs/blob/master/Lab3/lines_of_code_by_author.png)
 
+video: "https://github.com/ecampi/Labs/blob/master/Lab3/gource%20(1).mp4"
+
 Hedgehogs (could only find screenshots from group member):
 ![](https://github.com/ecampi/Labs/blob/master/Lab3/commits_by_author.png)
 ![](https://github.com/ecampi/Labs/blob/master/Lab3/commits_by_year_month%20(1).png)

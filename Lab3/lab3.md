@@ -53,8 +53,14 @@ Current branches: master, moreResources
 
 Findings when comparing Gitstat with #1:
     Got the number of lines wrong: 31346 vs 31303
-    
+ 
+Screenshots:
+![](https://github.com/ecampi/Labs/blob/master/Lab3/commits_by_year_month.png)
+![](https://github.com/ecampi/Labs/blob/master/Lab3/lines_of_code_by_author.png)
 
-Hedgehogs
+Hedgehogs (could only find screenshots from group member):
+![](https://github.com/ecampi/Labs/blob/master/Lab3/commits_by_author.png)
+![](https://github.com/ecampi/Labs/blob/master/Lab3/commits_by_year_month%20(1).png)
+![](https://github.com/ecampi/Labs/blob/master/Lab3/lines_of_code_by_author%20(1).png)
 
-HazelHeaters
+

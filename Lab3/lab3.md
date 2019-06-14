@@ -34,7 +34,7 @@ Screenshots of gitstats:
 ![](https://github.com/ecampi/Labs/blob/master/Lab3/commits.PNG)
 ![](https://github.com/ecampi/Labs/blob/master/Lab3/lines.PNG)
 
-Video: <video src="https://github.com/ecampi/Labs/blob/master/Lab3/gource.mp4" width="320" height="200" controls preload></video>
+Video: "https://github.com/ecampi/Labs/blob/master/Lab3/gource.mp4" 
 
 
 

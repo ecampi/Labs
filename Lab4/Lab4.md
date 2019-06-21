@@ -12,5 +12,8 @@
 
 Website | License Present | License
 ---------|:----------|:-------
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
-yee | yeet | yeethaw
+https://github.com/Apexal/late | Yes | MIT License
+https://github.com/kaijianz/alvitr | Yes | MIT License
+https://github.com/anchor-site/anchor | Yes | MIT License
+https://github.com/burtonwilliamt/carlogicapi | Yes | Apache License 2.0
+https://github.com/angel-project/framework | Yes | MIT License

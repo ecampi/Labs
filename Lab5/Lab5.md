@@ -1,20 +1,20 @@
 ## Step 1:
-
+The modified code, tutorial.cxx, the CMakeLists.txt are in Step1 folder in Lab5
 output of tutorial:
 ![](https://github.com/ecampi/Labs/blob/master/Lab5/step1.PNG)
 
 ## Step 2:
-
+The modified code, tutorial.cxx, the CMakeLists.txt are in Step2 folder in Lab5
 output of tutorial:
 ![](https://github.com/ecampi/Labs/blob/master/Lab5/step2.PNG)
 
 ## Step 3:
-
+The CMakeLists.txt and MathFunctions/CMakeLists.txt files are in Step3 folder in Lab5
 output of tutorial:
 ![](https://github.com/ecampi/Labs/blob/master/Lab5/step3.PNG)
 
 ## Step 4:
-
+The CMakeLists.txt and MathFunctions/CMakeLists.txt files are in Step4 folder in Lab5
 ### Output of ctest -W:
 
 UpdateCTestConfiguration  from :/mnt/c/Users/campae/Dropbox/OSS/cmake/Tests/Tutorial/Step4/build/DartConfiguration.tcl
@@ -98,6 +98,6 @@ test 5
 Total Test time (real) =   0.13 sec
 
 ## Step 5:
-
+The CMakeLists.txt and MathFunctions/CMakeLists.txt files are in Step5 folder in Lab5
 output of tutorial:
 ![](https://github.com/ecampi/Labs/blob/master/Lab5/step5.PNG)

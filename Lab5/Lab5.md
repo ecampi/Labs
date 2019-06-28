@@ -1,8 +1,17 @@
 ## Step 1:
 
+output of tutorial:
+![](https://github.com/ecampi/Labs/blob/master/Lab5/step1.PNG)
+
 ## Step 2:
 
+output of tutorial:
+![](https://github.com/ecampi/Labs/blob/master/Lab5/step2.PNG)
+
 ## Step 3:
+
+output of tutorial:
+![](https://github.com/ecampi/Labs/blob/master/Lab5/step3.PNG)
 
 ## Step 4:
 

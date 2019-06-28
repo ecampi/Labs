@@ -89,3 +89,6 @@ test 5
 Total Test time (real) =   0.13 sec
 
 ## Step 5:
+
+output of tutorial:
+!(https://github.com/ecampi/Labs/blob/master/Lab5/step5.PNG)[]

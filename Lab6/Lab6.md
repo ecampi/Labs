@@ -9,4 +9,4 @@ redoing the stuff before I started exercise00.
 
 Exercise02:
 For this exercise, the docker ps and docker images commands worked, but none of the others worked. 
-!()[https://github.com/ecampi/Labs/blob/master/Lab6/docker.PNG]
+![](https://github.com/ecampi/Labs/blob/master/Lab6/docker.PNG)

@@ -13,4 +13,7 @@ For this exercise, the docker ps and docker images commands worked, but none of 
 
 Exercise03:
 The command touch DockerFile was not running. It first said I didn't have permissions to do this. I looked online to try and find solutions 
-but nothing was working. Then I was able to open the docker file after a little bit in a text editor though. Everything in the document made sense and worked until the commands had to be run. When I tried to run build, it would give me another error saying that part of the statement was invalid. I tried many things to fix this 
+but nothing was working. Then I was able to open the docker file after a little bit in a text editor though. Everything in the document made sense and worked until the commands had to be run. When I tried to run build, it would give me another error saying that part of the statement was invalid. I tried many things to fix this but nothing worked. I also searched online for all of these errors and tried a lot of things I found but none of them worked. 
+
+Example04:
+

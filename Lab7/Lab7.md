@@ -1,7 +1,6 @@
 The code for the 5 letter comparisons is in plot_words5.py. The output from running this is:
 
-Loaded words_dat.txt containing 5757 five-letter English words.
-
+Loaded words_dat.txt containing 5757 five-letter English words.\n
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 14135 edges
 853 connected components

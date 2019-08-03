@@ -26,4 +26,22 @@ Screenshots of introduction course:
 
 
 
+
+Screenshots of parallel slopes course:
+
+![](https://github.com/ecampi/Labs/blob/master/Lab8/9.PNG)
+
+
+![](https://github.com/ecampi/Labs/blob/master/Lab8/10.PNG)
+
+
+![](https://github.com/ecampi/Labs/blob/master/Lab8/11.PNG)
+
+
+![](https://github.com/ecampi/Labs/blob/master/Lab8/12.PNG)
+
+
+
+
+
 Link to project: https://rcos.io/projects/wtg/shuttletracker/profile
